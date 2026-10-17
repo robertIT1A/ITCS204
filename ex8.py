@@ -26,7 +26,6 @@ def count_sort(arr):
 
     return ans
 
-
 if __name__ == "__main__":
     arr = [3, 2, 4, 7, 5, 8, 1, 2, 5, 9]
     ans = count_sort(arr)
